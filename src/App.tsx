@@ -15,7 +15,7 @@ import CustomLink from "./components/customlink/CustomLink";
 import HomePage from "./components/homepage/HomePage";
 import Account from "./components/Account/Account";
 import Admin from "./components/Admin/Admin";
-import Contact from "./components/Contact/Contact";
+
 import Product from "./components/Product/Product";
 
 export default function App() {
